@@ -32,3 +32,5 @@ npm run dev
 cd server
 go test ./controllers -v
 ```
+
+## Explore `docs` folder for more information
